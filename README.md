@@ -15,3 +15,5 @@ $ java Flooder {host} {port} {clients}
 ```
 
 The number of clients is the number of simultaneous connections you want to send to the server. If the server is a real IRC using more than 1 will likely get you banned, although to be fair, any setting you use will quickly get you banned.
+
+[![Analytics](https://ga-beacon.appspot.com/UA-3181088-16/chatter/readme)](https://github.com/aurbano)
